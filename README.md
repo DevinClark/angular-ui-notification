@@ -5,7 +5,7 @@ angular-ui-notification
 [![devDependency Status](https://david-dm.org/alexcrack/angular-ui-notification/dev-status.png)](https://david-dm.org/alexcrack/angular-ui-notification#info=devDependencies)
 [![Build Status](https://travis-ci.org/alexcrack/angular-ui-notification.svg?branch=master)](https://travis-ci.org/alexcrack/angular-ui-notification)
 
-Angular.js service providing simple notifications using Bootstrap 3 styles with css transitions for animations
+Angular.js service providing simple notifications using Bootstrap 3 styles with css transitions for animations. Fork of [alexcrack/angular-ui-notification](https://github.com/alexcrack/angular-ui-notification)
 
 ## Features
 * No dependencies except of angular.js.
